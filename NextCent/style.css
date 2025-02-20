@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    width: 100%;
+
+}
+
+
+
+.container-wrap{
+    height: 57px;
+    box-shadow: -3px 27px 13px 0px rgba(34, 60, 80, 0.2);
+    display: flex;
+}
+
+
+.name{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.icon{
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+
+.list-header{
+    display: flex;
+    list-style-type: none;
+    margin-left: 600px;
+    align-items: center;
+}
+
+
+.itemList{
+    margin-right: 50px;
+}
+
+.link-wrap{
+    text-decoration: none;
+    color: black;
+}
+
+.link-wrap-button{
+    width: 133px;
+    height: 36px;
+    background-color: #28CB8B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.container-photo{
+    height: 700px;
+    margin-top: 50px;
+    background-color: aliceblue;
+    display: flex;
+
+}
+
+
+.left-block{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.lesson{
+    font-size: 70px;
+    color: rgb(74, 71, 71);
+}
+
+
+
+.year{
+    font-size: 70px;
+    color: #43A046;
+}
+
+
+.text-header{
+    display: inline;
+    color: #717171;
+}
+
+.button-header{
+    background-color:rgb(2, 178, 2) ;
+    width: 150px;
+    height: 60px;
+    border-radius:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    color: #fff;
+}
+.right-block{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+
+.container-main{
+    height: 200px;
+}
+
+.container-client{
+    
+    text-align-last:center;
+}
+
+.text-clients{
+    margin-top: 20px;
+    color: #717171;
+}
+
+.container-partners{
+    display:flex;
+    
+    
+}
+
+.listPartners{
+    list-style-type: none;
+    display: flex;
+    margin-left: 350px;
+    margin-top: 70px;
+}
+
+
+.itemPartners{
+    margin-left: 125px;
+}
+
+
+.container-community{
+
+    height: 400px;
+}
+
+.community-text{
+    margin-top: 30px;
+    text-align-last: center;
+}
+
+.h1-comm{
+    color: #717171;
+}
+
+.page-comm{
+    margin-top: 20px;
+    color: #aeabab;
+}
+
+.block{
+    width: 210px;
+    height: 200px;
+    box-shadow: 0px 0px 30px 16px rgba(34, 60, 80, 0.2);
+
+}
+
+.block-image{
+    margin-left:10px ;
+}
